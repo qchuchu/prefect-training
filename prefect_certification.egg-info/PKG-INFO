@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: prefect-certification
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: prefect>=3.1.2
